@@ -1,0 +1,14 @@
+{
+  "name": "agent-skills-registry-ui",
+  "version": "0.1.0",
+  "description": "TypeScript dashboard to browse and test over 7,000+ available agent skills and MCP servers.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
